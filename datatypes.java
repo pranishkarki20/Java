@@ -5,10 +5,12 @@ class datatype{
         byte  num3 = 127;
         long  num4 = 1344555l;
         boolean b  = true ;
+        char c = 'k';
         System.out.println(num1);
         System.out.println(num2);
         System.out.println(num3);
         System.out.println(num4);
         System.out.println(b);
+        System.out.println(c);
     }
 }
