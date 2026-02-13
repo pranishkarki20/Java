@@ -14,4 +14,3 @@ class loop{
         String address = sc.nextLine();
         System.out.println("Address:" + address);
     }
-}
