@@ -1,4 +1,4 @@
-public class enap { // Capitalized class name
+class enap { // Capitalized class name
     private double balance; 
 
     public void deposit(double amount) { // Fixed spelling & camelCase
@@ -23,7 +23,8 @@ public class enap { // Capitalized class name
 
     public static void main(String[] args) {
         enap e = new enap();
-        e.deposit(1000); 
+        e.deposit(2000);
+        e.withdraw(500); 
         e.checkBalance();
     }
 }
