@@ -1,14 +1,10 @@
-/*class stduent{
+class stduent{
     int rollno ;
     String name ; 
     int marks;
-}*/
+}
 
-public class stduent{ 
-    int rollno ;
-    String name ; 
-    int marks;
-
+public class stduents{ 
     public static void main(String a[]){
     stduent s1 =  new stduent();
     s1.rollno = 11 ; 
